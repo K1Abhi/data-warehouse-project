@@ -4,8 +4,8 @@
 -- Description:   Drops the existing Data Warehouse if it exists, recreates it, 
 --                and sets up Bronze, Silver, and Gold schemas for data layering.
 -- 
--- Author:        [Your Name]
--- Created On:    [Today's Date]
+-- Author:        Abhishek Kumar
+-- Created On:    26/4/2025
 -- 
 -- IMPORTANT WARNING:
 -- - This script will DROP the existing 'Data_warehouse' database permanently.
